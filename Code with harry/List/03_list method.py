@@ -1,0 +1,11 @@
+a = [4,6,5,2,76,34]
+# a.sort()
+# print(a)
+# a.reverse()
+# print(a)
+# a.reverse()
+# print(a)
+# a.insert(9,10)
+# a.append(4)
+a.remove(10/2)
+print(a)
